@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entity\" />
+    <None Remove="DataAccess\" />
+    <None Remove="Business\" />
+    <None Remove="Business\Abstract\" />
+    <None Remove="Business\Concrete\" />
+    <None Remove="Entity\Abstract\" />
+    <None Remove="Entity\Concrete\" />
+    <None Remove="DataAccess\EntityFramework\" />
+    <None Remove="DataAccess\InMemory\" />
+    <None Remove="DataAccess\EntityFramework\Concrete\" />
+    <None Remove="DataAccess\EntityFramework\Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="Business\" />
+    <Folder Include="Business\Abstract\" />
+    <Folder Include="Business\Concrete\" />
+    <Folder Include="Entities\Abstract\" />
+    <Folder Include="Entities\Concrete\" />
+    <Folder Include="DataAccess\EntityFramework\" />
+    <Folder Include="DataAccess\InMemory\" />
+    <Folder Include="DataAccess\EntityFramework\Concrete\" />
+    <Folder Include="DataAccess\EntityFramework\Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.15">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="EntityFramework" Version="6.1.0" />
+  </ItemGroup>
+</Project>

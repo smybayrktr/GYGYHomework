@@ -1,0 +1,15 @@
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/bin/Debug/net6.0/Hangman
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/bin/Debug/net6.0/Hangman.deps.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/bin/Debug/net6.0/Hangman.runtimeconfig.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/bin/Debug/net6.0/Hangman.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/bin/Debug/net6.0/Hangman.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/refint/Hangman.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/Hangman.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Hangman/obj/Debug/net6.0/ref/Hangman.dll

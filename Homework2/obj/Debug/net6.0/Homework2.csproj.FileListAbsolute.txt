@@ -1,0 +1,15 @@
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/bin/Debug/net6.0/Homework2
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/bin/Debug/net6.0/Homework2.deps.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/bin/Debug/net6.0/Homework2.runtimeconfig.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/bin/Debug/net6.0/Homework2.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/bin/Debug/net6.0/Homework2.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/refint/Homework2.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/Homework2.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/Homework2/obj/Debug/net6.0/ref/Homework2.dll
