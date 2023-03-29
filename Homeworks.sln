@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceTest", "Covarianc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceExample", "CovarianceExample\CovarianceExample.csproj", "{4073A31B-74E0-49E8-AE66-A42CF6063822}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovValidation", "LiskovValidation\LiskovValidation.csproj", "{1E652674-67B8-428E-AC5C-07F541F1CDF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4073A31B-74E0-49E8-AE66-A42CF6063822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4073A31B-74E0-49E8-AE66-A42CF6063822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4073A31B-74E0-49E8-AE66-A42CF6063822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E652674-67B8-428E-AC5C-07F541F1CDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E652674-67B8-428E-AC5C-07F541F1CDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E652674-67B8-428E-AC5C-07F541F1CDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E652674-67B8-428E-AC5C-07F541F1CDF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
