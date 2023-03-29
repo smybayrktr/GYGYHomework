@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/SolidPrinciplesExample.csproj": {}
+    "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/SolidPrinciplesExample.csproj": {}
   },
   "projects": {
-    "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/SolidPrinciplesExample.csproj": {
+    "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/SolidPrinciplesExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/SolidPrinciplesExample.csproj",
+        "projectUniqueName": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/SolidPrinciplesExample.csproj",
         "projectName": "SolidPrinciplesExample",
-        "projectPath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/SolidPrinciplesExample.csproj",
+        "projectPath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/SolidPrinciplesExample.csproj",
         "packagesPath": "/Users/smybayrktr/.nuget/packages/",
-        "outputPath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/obj/",
+        "outputPath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/smybayrktr/.nuget/NuGet/NuGet.Config"

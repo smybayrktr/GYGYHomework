@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2uG1OGTKCtUvv/Jtm+AktqUSxwbShn3HfUUkjhPhZbAFj16yvO7x0WoRJBfDVZ3JgfMu2ue1/tmeQBNfMT4Yow==",
+  "dgSpecHash": "MmCAxdjvnrxnsDG3zSqxXj2RL65urey4D8HcTcyVOWKR+5U+WS7Lqg9dNBOwa5sdSMHhFEZ5pOe2Sy5yoZ8r+A==",
   "success": true,
-  "projectFilePath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/DependencyInversionExample/SolidPrinciplesExample.csproj",
+  "projectFilePath": "/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SolidPrinciplesExample/SolidPrinciplesExample.csproj",
   "expectedPackageFiles": [
     "/Users/smybayrktr/.nuget/packages/entityframework/6.1.0/entityframework.6.1.0.nupkg.sha512",
     "/Users/smybayrktr/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",

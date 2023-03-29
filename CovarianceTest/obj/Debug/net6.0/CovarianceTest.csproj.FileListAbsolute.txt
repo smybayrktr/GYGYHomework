@@ -1,0 +1,15 @@
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/bin/Debug/net6.0/CovarianceTest
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/bin/Debug/net6.0/CovarianceTest.deps.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/bin/Debug/net6.0/CovarianceTest.runtimeconfig.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/bin/Debug/net6.0/CovarianceTest.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/bin/Debug/net6.0/CovarianceTest.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/refint/CovarianceTest.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/CovarianceTest.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/CovarianceTest/obj/Debug/net6.0/ref/CovarianceTest.dll
