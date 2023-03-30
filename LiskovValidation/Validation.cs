@@ -6,21 +6,21 @@ public abstract class Validation
 {
     public int PersonCount { get; set; }
     public DateTime StartDate { get; set; }
-    public DateTime FinishTime { get; set; }
+    public DateTime FinishDate { get; set; }
     public delegate bool validateOfCount();
     public delegate bool validateOfTime();
 
-    public Validation(int personCount, DateTime startDate, DateTime finishTime)
+    public Validation(int personCount, DateTime startDate, DateTime finishDate)
     {
         PersonCount = personCount;
         StartDate = startDate;
-        FinishTime = finishTime;
+        FinishDate = finishDate;
     }
 
     public abstract bool ValidateOfPersonCount();
     public bool ValidateOfTime()
     {
-        if (FinishTime < StartDate)
+        if (FinishDate < StartDate)
         {
             Console.WriteLine("Bitiş tarihi başlangıç tarihinden önce olamaz!");
             return false;
@@ -28,7 +28,7 @@ public abstract class Validation
 
         return true;
     }
-    public bool Validator(bool validateOfTime,bool validateOfCount)
+    public bool Validator(bool validateOfTime, bool validateOfCount)
     {
         if (validateOfTime && validateOfCount)
         {
