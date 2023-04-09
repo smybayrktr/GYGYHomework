@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="DataAccess\" />
+    <None Remove="DataAccess\Abstract\" />
+    <None Remove="DataAccess\Concrete\" />
+    <None Remove="Business\" />
+    <None Remove="Business\Abstract\" />
+    <None Remove="Business\Concrete\" />
+    <None Remove="Core\" />
+    <None Remove="Core\DataAccess\" />
+    <None Remove="Core\DataAccess\InMemory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="DataAccess\Abstract\" />
+    <Folder Include="DataAccess\Concrete\" />
+    <Folder Include="Business\" />
+    <Folder Include="Business\Abstract\" />
+    <Folder Include="Business\Concrete\" />
+    <Folder Include="Core\" />
+    <Folder Include="Core\DataAccess\" />
+    <Folder Include="Core\DataAccess\InMemory\" />
+  </ItemGroup>
+</Project>

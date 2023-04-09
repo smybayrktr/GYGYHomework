@@ -1,0 +1,5 @@
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolAutomation/obj/Debug/net6.0/SchoolAutomation.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolAutomation/obj/Debug/net6.0/SchoolAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolAutomation/obj/Debug/net6.0/SchoolAutomation.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolAutomation/obj/Debug/net6.0/SchoolAutomation.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolAutomation/obj/Debug/net6.0/SchoolAutomation.csproj.CoreCompileInputs.cache

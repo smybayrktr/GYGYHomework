@@ -1,0 +1,15 @@
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/bin/Debug/net6.0/SchoolProgramming
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/bin/Debug/net6.0/SchoolProgramming.deps.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/bin/Debug/net6.0/SchoolProgramming.runtimeconfig.json
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/bin/Debug/net6.0/SchoolProgramming.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/bin/Debug/net6.0/SchoolProgramming.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/refint/SchoolProgramming.dll
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.pdb
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/SchoolProgramming.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/Geleceği Yazanlar/GYGYHomework/SchoolProgramming/obj/Debug/net6.0/ref/SchoolProgramming.dll

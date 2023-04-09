@@ -1,43 +1,46 @@
-﻿<Properties StartupConfiguration="{1E652674-67B8-428E-AC5C-07F541F1CDF6}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Homework2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CovarianceTest PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{43AD34A7-1E52-46DF-BFCD-FD70DAF9FD1A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SchoolProgramming PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Hangman PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.CovarianceExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CovarianceTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LiskovValidation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LiskovValidation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolProgramming/DataAccess/Concrete/InMemoryClasroomDal.cs">
     <Files>
-      <File FileName="CovarianceExample/Program.cs" />
-      <File FileName="CovarianceTest/Program.cs" />
-      <File FileName="SolidPrinciplesExample/Entities/Abstract/IEntity.cs" />
-      <File FileName="SolidPrinciplesExample/Entities/Concrete/Category.cs" />
-      <File FileName="SolidPrinciplesExample/Entities/Concrete/Recipe.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/InMemory/InMemoryCategoryDal.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/EntityFramework/Abstract/IRecipeDal.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/EntityFramework/IEntityRepository.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/EntityFramework/EfEntityRepository.cs" />
-      <File FileName="SolidPrinciplesExample/Program.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/EntityFramework/Abstract/ICategoryDal.cs" />
-      <File FileName="SolidPrinciplesExample/DataAccess/EntityFramework/Concrete/EfCategoryDal.cs" />
-      <File FileName="SolidPrinciplesExample/Business/Abstract/ICategoryService.cs" />
-      <File FileName="SolidPrinciplesExample/Business/Concrete/CategoryManager.cs" />
-      <File FileName="LiskovValidation/Program.cs" Line="9" Column="1" />
+      <File FileName="SchoolProgramming/Business/Concrete/TeacherManager.cs" Line="15" Column="10" />
+      <File FileName="SchoolProgramming/Business/Concrete/StudentManager.cs" Line="10" Column="50" />
+      <File FileName="SchoolProgramming/Business/Concrete/ClassroomManager.cs" Line="1" Column="1" />
+      <File FileName="SchoolProgramming/DataAccess/Abstract/IClasroomDal.cs" Line="4" Column="43" />
+      <File FileName="SchoolProgramming/DataAccess/Concrete/InMemoryClasroomDal.cs" Line="30" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homeworks" expanded="True">
-            <Node name="CovarianceExample" expanded="True" />
-            <Node name="LiskovValidation" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="SchoolProgramming" expanded="True">
+              <Node name="Business" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concrete" expanded="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concrete" expanded="True">
+                  <Node name="InMemoryClasroomDal.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concrete" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hangman PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
